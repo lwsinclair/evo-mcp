@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brunonuzzi-evo-mcp-badge.png)](https://mseep.ai/app/brunonuzzi-evo-mcp)
+
 # MCP Evolution API Supergateway
 
 MCP Evo Supergateway is gateway application to interface with the Evolution API. 
